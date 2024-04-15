@@ -149,6 +149,12 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+Servers/
+Servers1/
+Servers2/
+Servers3/
+mybatisProject/.classpath
+
 # Windows shortcuts
 *.lnk
 
